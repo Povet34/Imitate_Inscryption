@@ -7,3 +7,8 @@
 
 https://github.com/user-attachments/assets/6d6bfbed-856b-450f-9bf0-9cddbbb99676
 
+
+### Hologram Foil Shader
+
+
+![image.png](attachment:7b61ce80-0d13-405c-accc-4d8177085cf5:image.png)
