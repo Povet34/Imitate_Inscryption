@@ -15,16 +15,9 @@ public class HandController : MonoBehaviour
     public Transform minPos, maxPos;
     public List<Vector3> cardPositions = new List<Vector3>();
 
-    // Start is called before the first frame update
     void Start()
     {
         SetCardPositionsInHand();
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
     }
 
     public void SetCardPositionsInHand()
